@@ -1,0 +1,15 @@
+D:\учёба\proga\C#\Lr1\Lr1\bin\Debug\net6.0\Lr1.exe
+D:\учёба\proga\C#\Lr1\Lr1\bin\Debug\net6.0\Lr1.deps.json
+D:\учёба\proga\C#\Lr1\Lr1\bin\Debug\net6.0\Lr1.runtimeconfig.json
+D:\учёба\proga\C#\Lr1\Lr1\bin\Debug\net6.0\Lr1.dll
+D:\учёба\proga\C#\Lr1\Lr1\bin\Debug\net6.0\Lr1.pdb
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.csproj.AssemblyReference.cache
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.AssemblyInfoInputs.cache
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.AssemblyInfo.cs
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.csproj.CoreCompileInputs.cache
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.dll
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\refint\Lr1.dll
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.pdb
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\Lr1.genruntimeconfig.cache
+D:\учёба\proga\C#\Lr1\Lr1\obj\Debug\net6.0\ref\Lr1.dll
